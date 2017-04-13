@@ -1,4 +1,8 @@
 testA
 test1
 hub2
+<<<<<<< HEAD
 branch
+=======
+aaaa,tttt,eeee
+>>>>>>> origin/master
