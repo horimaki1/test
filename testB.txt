@@ -1,3 +1,4 @@
 testB
 
 local merge
+mergetest

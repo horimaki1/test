@@ -7,5 +7,4 @@ branch
 aaaa,tttt,eeee
 >>>>>>> origin/master
 
-
-comment
+merge test
