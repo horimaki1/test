@@ -1,4 +1,10 @@
+(local)
+
 testB
 
 local merge
 mergetest
+
+add test
+
+(local)
