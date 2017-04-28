@@ -6,3 +6,5 @@ branch
 =======
 aaaa,tttt,eeee
 >>>>>>> origin/master
+
+merge test
