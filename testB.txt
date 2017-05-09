@@ -23,8 +23,3 @@ add
 (add )
 
 serv
-
-
-*****
-test
-*****
