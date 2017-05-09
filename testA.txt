@@ -1,3 +1,7 @@
+******
+local test2
+******
+
 testA
 
 add
@@ -20,3 +24,7 @@ local test
 ------------
 test
 ------------
+
+*******
+local test2
+*******
